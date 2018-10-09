@@ -1,0 +1,12 @@
+# python compile files
+# ======================
+*.pyc
+
+# Eclipse project files
+# ======================
+.project
+.pydevproject
+
+# Others
+# ======================
+old/*
