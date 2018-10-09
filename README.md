@@ -60,3 +60,4 @@ pip install -r requirements.txt
 ```
 python server.py
 ```
+#### Also read [(this blogpost)](https://biplovbhandari.wordpress.com/2017/11/28/jrc-historical-flood-visualization-and-download-with-google-earth-engine/)
